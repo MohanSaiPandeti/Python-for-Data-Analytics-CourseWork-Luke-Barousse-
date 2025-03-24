@@ -7,7 +7,7 @@ This repository contains my coursework and exercises from the **"Python for Data
 - NumPy & Pandas for Data Processing
 - Data Cleaning & Analysis
 - Data Visualization with Matplotlib & Seaborn
-- 🛠Working with Virtual Environments
+- Working with Virtual Environments
 
 ## Course Reference
 [Course](https://lukeb.co)
